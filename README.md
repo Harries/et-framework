@@ -101,76 +101,7 @@
 <td colspan="1"></td>
 <td colspan="1"></td>
 </tr>
-<tr>
-<td colspan="1">6</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-</tr>
-<tr>
-<td colspan="1">7</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-</tr>
-<tr>
-<td colspan="1">8</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-</tr>
-<tr>
-<td colspan="1">9</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-</tr>
-<tr>
-<td colspan="1">10</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-</tr>
-<tr>
-<td colspan="1">11</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-</tr>
-<tr>
-<td colspan="1">12</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-</tr>
+
 </tbody>
 </table>
 <h1></h1>
