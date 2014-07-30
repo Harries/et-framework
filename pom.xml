@@ -18,5 +18,6 @@
   	<module>etcore</module>
   	<module>etcommons</module>
     <module>etmvc</module>
+    <module>etorm</module>
   </modules>
 </project>
