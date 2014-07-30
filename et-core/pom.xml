@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>com.etframework</groupId>
-  <artifactId>etcore</artifactId>
+  <artifactId>et-core</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>etcore</name>
   <url>http://maven.apache.org</url>
