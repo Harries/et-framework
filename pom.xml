@@ -19,5 +19,6 @@
   	<module>etcommons</module>
     <module>etmvc</module>
     <module>etorm</module>
+    <module>et-demo</module>
   </modules>
 </project>
