@@ -4,7 +4,7 @@ package com.etframework.etcommons;
  * Hello world!
  *
  */
-public class App 
+public class code 
 {
     public static void main( String[] args )
     {
