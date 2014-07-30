@@ -1,5 +1,4 @@
-<h1><strong><span >写在前面</span></strong></h1>
-
+<h1><strong>写在前面</strong></h1>
 &nbsp;
 
 工作6年有余，一直从事java方面的工作，用过大大小小各种框架，尝试过各种复杂的配置以及不同学习曲线，感觉java的世界是如此杂而乱。借此希望造一个轮子，已简化java web开发，开发者不需要学习更多的知识，只要一个框架就能解决绝大多数日常应用开发中的问题。由于诞生了这个框架，暂且取名为：
@@ -180,4 +179,9 @@
 
 采用maven搭建项目，管理依赖以及版本的控制，代码托管在github ，希望大家为中国的开源事业贡献自己的一份力量
 
+基础知识准备：
+<ol>
+	<li><a style="font-size: 13px;" href="http://www.liuhaihua.cn/?p=826">git和eclipse集成</a></li>
+	<li><a href="http://www.liuhaihua.cn/?p=632">maven和eclipse集成</a></li>
+</ol>
 有疑问请联系liuhaihua@59et.com QQ群号：223082909
