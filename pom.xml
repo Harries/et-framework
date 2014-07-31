@@ -15,10 +15,10 @@
   </properties>
 
   <modules>
-  	<module>et-core</module>
+  	<module>et-service</module>
   	<module>et-commons</module>
-    <module>et-mvc</module>
-    <module>et-orm</module>
+    <module>et-web</module>
+    <module>et-dao</module>
     <module>et-demo</module>
   </modules>
 </project>
