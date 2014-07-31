@@ -31,83 +31,41 @@
 </div></th>
 <th data-column="2">
 <div>
-<div>开始日期</div>
+<div>模块说明</div>
 </div></th>
-<th colspan="1" data-column="3">
-<div>
-<div>完成日期</div>
-</div></th>
-<th colspan="1" data-column="4">
-<div>
-<div>任务领取人</div>
-</div></th>
-<th colspan="1" data-column="5">
-<div>
-<div>进行状态</div>
-</div></th>
-<th colspan="1" data-column="6">代码地址</th>
-<th colspan="1" data-column="7">
-<div>备注</div></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
-<td>et-framework(父工程)</td>
-<td></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"><a href=" https://github.com/Harries/et-framework" target="_blank">github</a></td>
-<td colspan="1"></td>
+<td>et-framework</td>
+<td>(maven父工程,管理所有的子模块或者是子项目，以及负责整体发布，整体打包，等等)</td>
 </tr>
 <tr>
 <td colspan="1">2</td>
-<td colspan="1">et-core</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
+<td colspan="1">et-service</td>
+<td colspan="1"> 这个jar 文件是所有应用都要用到的，它包含访问配置文件、创建和管理bean 以及进行Inversion of Control / Dependency Injection（IoC/DI）操作相关的所有类。如果应用只需基本的IoC/DI 支持，引入et-service.jar和et-common.jar 文件就可以了。</td>
 </tr>
 <tr>
 <td colspan="1">3</td>
-<td colspan="1">et-mvc</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
+<td colspan="1">et-web</td>
+<td colspan="1"> 这个jar 文件包含ET MVC 框架相关的所有类。包括框架的Servlets，Web MVC框架，控制器和视图支持。当然，如果你的应用使用了独立的MVC 框架，则无需这个JAR 文件里的任何类。</td>
 </tr>
 <tr>
 <td colspan="1">4</td>
-<td colspan="1">et-orm</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
+<td colspan="1">et-dao</td>
+<td colspan="1"> 这个jar 文件包含对ET对JDBC 数据访问进行封装的所有类。和事务访问数据库</td>
 </tr>
 <tr>
 <td colspan="1">5</td>
 <td colspan="1">et-common</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
+<td colspan="1"> 这个jar 文件包含ET 框架基本的核心工具类。et 其它组件要都要使用到这个包里的类，是通用的核心的工具类，当然你也可以在自己的应用系统中使用这些工具类</td>
 </tr>
-
 </tbody>
 </table>
 <h1></h1>
 <h1><strong>备注</strong></h1>
 &nbsp;
-
 
 采用maven搭建项目，管理依赖以及版本的控制，代码托管在github ，希望大家为中国的开源事业贡献自己的一份力量
 
