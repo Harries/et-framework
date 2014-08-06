@@ -10,8 +10,8 @@
   <groupId>com</groupId>
   <artifactId>et-mvc</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>etmvc</name>
-  <url>http://maven.apache.org</url>
+  <name>et-mvc</name>
+  <url>http://maven.59et.com</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>

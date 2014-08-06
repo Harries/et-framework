@@ -3,12 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com</groupId>
-  <artifactId>etframework</artifactId>
+  <artifactId>et-framework</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>etframework</name>
-  <url>http://maven.apache.org</url>
+  <name>et-framework</name>
+  <url>http://maven.59et.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
