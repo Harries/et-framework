@@ -4,15 +4,15 @@
 
   <groupId>com</groupId>
   <artifactId>etframework</artifactId>
-  <version>${etframework.version}</version>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>et-framework</name>
-  <url>${etframework.url}</url>
+  <url>http://maven.59et.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <etframework.version>0.0.2-SNAPSHOT</etframework.version>
+    <etframework.version>0.0.3-SNAPSHOT</etframework.version>
     <etframework.url>http://maven.59et.com</etframework.url>
   </properties>
 
@@ -22,6 +22,7 @@
     <module>et-web</module>
     <module>et-dao</module>
     <module>et-demo</module>
+    <module>et-ui</module>
   </modules>
   <!-- deploy到nexus的配置份为快照库和正式库 -->
 	<distributionManagement>
