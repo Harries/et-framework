@@ -9,9 +9,9 @@
   </parent>
   <groupId>com.etframework</groupId>
   <artifactId>et-service</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>${etframework.version}</version>
   <name>et-service</name>
-  <url>http://maven.apache.org</url>
+  <url>${etframework.url}</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
